@@ -1,1 +1,2 @@
-# demand-sales-prediction-BDM
+This project encompasses the deliverables for the project "Data Driven Demand and Sales Prediction of an Electric Appliance Store". 
+The deliverables are caterogized into respective repositories. The multiple reports can be found in the "Reports" directory whereas the Presentation is found in the "Presentation" directory and so on.
